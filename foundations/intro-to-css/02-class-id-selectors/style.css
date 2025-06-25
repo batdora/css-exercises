@@ -1,0 +1,19 @@
+p{
+    background-color: palevioletred;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#Number2{
+    color: aqua;
+    font-size: 36px;
+}
+
+.Number3{
+    font-size: 24px;
+}
+
+#Number4{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: 700;
+}
